@@ -11,6 +11,9 @@ This repository contains a curated collection of PDF presentations organized by 
 - `GANs.pdf` — Understanding Generative Adversarial Networks and their use cases.
 - `Word Embeddings.pdf` — Exploring vector representations of words and semantic similarity.
 
+- `LSTM.pdf` — Introduction to Long Short-Term Memory networks for sequence modeling, covering their architecture
+
+
 ### 🔴 Advanced
 - `Conferences/Glovoz.pdf` — A deep-dive presentation shared at an advanced AI conference.
 - `Conferences/Presentación Medellín AI.pdf` — Slides from a talk given at Medellín AI.
